@@ -11,5 +11,6 @@ Steps
 
 -  git clone https://github.com/shubhamgoyall/Scientific-Calculator/
 -  cd Scientific-Calculator
+-  javac Calculator.java
 -  jar -cvmf manifest.mf Calculator.jar *.class
 -  Executable Calculator.jar will be generated.
