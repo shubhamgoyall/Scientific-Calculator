@@ -3,8 +3,8 @@ Basic expressions + Trigo &amp; Log functions(For integers)
 
 Process
 ---------------
--  Solve all trigo and log functions,if present
--  Evaluate the expression using shunting yard algorithm
+-  Solve any trigo and log functions, if present.
+-  Evaluate the expression using shunting yard algorithm.
 
 Steps
 ---------------
