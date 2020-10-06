@@ -1,2 +1,15 @@
 # Scientific-Calculator
-Basic expressions + Trigo &amp; Log functions
+Basic expressions + Trigo &amp; Log functions(For integers)
+
+Process
+---------------
+-  Solve all trigo and log functions,if present
+-  Evaluate the expression using shunting yard algorithm
+
+Steps
+---------------
+
+-  git clone https://github.com/shubhamgoyall/Scientific-Calculator/
+-  cd Scientific-Calculator
+-  jar -cvmf manifest.mf Calculator.jar *.class
+-  Executable Calculator.jar will be generated.
